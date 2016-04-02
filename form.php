@@ -1,3 +1,5 @@
+Ini adalalh form
+
 <form action="target.php" method="post">
 	<table>
 		<tr>
